@@ -1,4 +1,4 @@
-## this repo made possible by [supermamon.](https://supermamon.github.io/Reposi3/) thanks for the template mate, and for saving me a bit of time.
+## this repo made possible by [supermamon.](https://github.com/supermamon/Reposi3) thanks for the template mate, and for saving me a bit of time.
 
 
 <details>
