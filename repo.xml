@@ -1,12 +1,12 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
+			<name>twitter</name>
 			<url>https://twitter.com/konwavemusic</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Template cred: Supermamon</name>
+			<name>template cred: Supermamon</name>
 			<url>https://github.com/supermamon/Reposi3/</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
