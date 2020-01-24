@@ -1,4 +1,4 @@
-## repo template cred goes to Supermamon. thanks for saving me a bit of time.
+## this repo brought to you by supermamon. thanks for the template mate, and for saving me a bit of time.
 
 
 <details>
